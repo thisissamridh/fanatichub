@@ -172,7 +172,7 @@ export default function Creator() {
               <div className={styles.user_subscription}>
                 {/* <h2 className={styles.card_title}>Creator NFT</h2> */}
                 <div className={styles.creator_nft}>
-                  {/* <Image src={creator_nft} /> */}
+                  <Image src={creator_nft} />
                 </div>
               </div>
             </div>
