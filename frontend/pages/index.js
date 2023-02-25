@@ -14,9 +14,8 @@ import banner from '../src/assets/banner.png';
 import Hover from 'react-3d-hover';
 import Link from 'next/link';
 import ipfs from '../src/assets/ipfs.png';
-import ceramic from '../src/assets/ceramic.png';
-import valist from '../src/assets/valist.png';
-import spheron from '../src/assets/spheron.svg';
+
+// import spheron from '../src/assets/spheron.svg';
 import web3storage from '../src/assets/web3storage.svg';
 import polygon from '../src/assets/polygon.svg';
 import Footer from '../src/components/Footer';
@@ -181,11 +180,11 @@ export default function Home() {
             <p>Web3.Storage</p>
           </div>
 
-          <div className={styles.sponsor}>
+          {/* <div className={styles.sponsor}>
             <a href="https://spheron.network" target="_blank" rel="noreferrer">
               <Image src={spheron} />
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
     </>
