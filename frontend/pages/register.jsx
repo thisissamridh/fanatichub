@@ -139,7 +139,7 @@ export default function Register() {
       const ID = parseInt(tx.value._hex);
       console.log(ID);
       setId(ID);
-      const link = `https://FanFareio.vercel.app/profile/${ID}`;
+      const link = `https://fanfareio.vercel.app/profile/${ID}`;
       console.log(link);
       setSharableLink(link);
       console.log('Creator Added and Profile added Successfully🚀🚀');

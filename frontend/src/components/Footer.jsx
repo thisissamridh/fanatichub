@@ -9,7 +9,7 @@ export default function Footer() {
   return (
     <footer className={styles.footer}>
       <div>
-        <Link href="/team">© 2022 FanFare</Link>
+        <Link href="/team">© 2022 fanatic hub</Link>
         <a
           href="https://github.com/thisissamridh"
           target="_blank"

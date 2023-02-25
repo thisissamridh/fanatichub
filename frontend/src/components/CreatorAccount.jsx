@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import styles from '../../styles/Home.module.css';
 import Image from 'next/image';
-import creator_nft from '../../src/assets/Fanfare_Creator_NFT.png';
+import creator_nft from '../../src/assets/fanfare_Creator_NFT.png';
 import content1 from '../../src/assets/gold.png';
 import content2 from '../../src/assets/silver.png';
 import profile from '../../src/assets/profile.png';

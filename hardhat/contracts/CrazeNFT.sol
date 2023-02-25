@@ -25,7 +25,7 @@ contract CrazeNFT is ERC1155Supply, Ownable {
         _;
     }
 
-    constructor(string memory baseURI) ERC1155("FanFareNFT") {
+    constructor(string memory baseURI) ERC1155("fanfareNFT") {
         _baseTokenURI = baseURI;
     }
 

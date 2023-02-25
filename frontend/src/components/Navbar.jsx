@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import logo from '../assets/logos.png';
+import logo from '../assets/logof.png';
 import styles from './Navbar.module.css';
 import Image from 'next/image';
 import Link from 'next/link';
@@ -69,7 +69,7 @@ export default function Navbar() {
 
           <li className={styles.hide}>
             <a
-              href="https://twitter.com/FanFare_xyz"
+              href="https://twitter.com/fanfare_xyz"
               target="_blank"
               rel="noreferrer"
             >
@@ -86,7 +86,7 @@ export default function Navbar() {
 
       <div className={`${styles.show} ${styles.navRight}`}>
         <a
-          href="https://twitter.com/FanFare_xyz"
+          href="https://twitter.com/fanfare_xyz"
           target="_blank"
           rel="noreferrer"
         >

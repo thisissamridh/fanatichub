@@ -29,7 +29,7 @@ export default function Home() {
     <>
       <div className={styles.container}>
         <main className={styles.main}>
-          <h1 className={styles.title}>FanFare</h1>
+          <h1 className={styles.title}>Fanatic Hub</h1>
           <span className={styles.banner}>
             <Image src={banner} />
           </span>

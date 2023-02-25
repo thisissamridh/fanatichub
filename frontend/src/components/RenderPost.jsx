@@ -19,7 +19,7 @@ export default function RenderPost(props) {
         />
         {/* <button className={styles.create_post_btn} type="button"> */}
         {/* <a
-          text={"Hi checkout User profile on FanFare"}
+          text={"Hi checkout User profile on fanfare"}
           rel="noopener noreferrer"
           className={styles.create_post_btn}
           href="https://twitter.com/intent/tweet"
