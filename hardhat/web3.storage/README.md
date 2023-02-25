@@ -1,0 +1,25 @@
+Images
+Content added with CID: bafybeiefzb7yjjzk5mpanydrdpi4zmzibm4l7dpmtmuhxllv2zozujnzkq
+
+ipfs://bafybeiefzb7yjjzk5mpanydrdpi4zmzibm4l7dpmtmuhxllv2zozujnzkq/images/
+
+Metadata
+Content added with CID: bafybeiah2x2zvenc3ecpiygbl3bvoe5tpxhsxobzz4xyrutdlemnukg6uu
+
+ipfs://bafybeiah2x2zvenc3ecpiygbl3bvoe5tpxhsxobzz4xyrutdlemnukg6uu/metadata/
+
+New Metadata
+Content added with CID: bafybeicucwbhwif7lsfrk536pb6bf2rntvrvxxoryxwz4yuztwgt772opi
+ipfs://bafybeicucwbhwif7lsfrk536pb6bf2rntvrvxxoryxwz4yuztwgt772opi/metadata/
+
+
+
+Final (13-08-2022)
+
+New Images
+Content added with CID: bafybeievwmj7eujgknpd4xhc7vict6sgsdei3d6thwyfqa2dcfefcwjqky
+ipfs://bafybeievwmj7eujgknpd4xhc7vict6sgsdei3d6thwyfqa2dcfefcwjqky/images/
+
+New metadata (final)
+Content added with CID: bafybeiaw43hwcgphcsoq5r3nzrh4gykalfrk3wbricm6nkvo22mzltm5na
+ipfs://bafybeiaw43hwcgphcsoq5r3nzrh4gykalfrk3wbricm6nkvo22mzltm5na/metadata/

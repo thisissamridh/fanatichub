@@ -1,0 +1,58 @@
+.plan_card {
+  max-width: 350px;
+  height: auto;
+  margin: 25px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+
+.shadow {
+  display: block;
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: 0px 0px 0px 2px #64a9f8;
+}
+
+.card_img {
+  margin: 10px auto;
+  max-width: 100px;
+}
+
+.card_content {
+  width: 280px;
+  padding: 30px;
+  justify-content: center;
+  box-shadow: 0 1px 15px #00000099;
+  border-radius: 15px;
+}
+
+.card_content:hover {
+  overflow: hidden;
+  cursor: pointer;
+}
+
+.plan_benefits {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.plan_benefits * {
+  /* border: 1px solid red; */
+}
+
+.plan_benefits h4 {
+  /* border: 1px solid red; */
+  margin-bottom: 10px;
+}
+
+.plan_benefits li {
+  /* margin: 10px 0; */
+  list-style: none;
+}
+
+
